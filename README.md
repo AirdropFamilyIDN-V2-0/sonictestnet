@@ -38,3 +38,27 @@ ENDPOINTS = (
 - Now You Can Run With Command python txmultisol.py On Terminal
 - If Success You Will Get Result Like Below
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/BUejC074SjSW4-q1wrZxsQ.png)](https://github.com/ylasgamers/sonictestnet)
+
+
+# how to run multi account
+```
+git clone https://github.com/familyidnbot/sonictestnet.git
+```
+```
+cd multi
+```
+```
+pip install requests
+```
+```
+pip install solathon==0.1.8
+```
+```
+pip install base58
+```
+```
+python multi.py
+```
+- edit file pksol.txt isi privatekey sol mu
+- pisahkan dengan garis baru/enter
+
